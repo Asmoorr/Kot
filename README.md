@@ -1,2 +1,2 @@
-# kot
+# Kot
 About a cat
